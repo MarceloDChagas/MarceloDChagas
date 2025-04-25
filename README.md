@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @MarceloDChagas
 
-Sou engenheiro de software com foco em aplicações robustas, escaláveis e orientadas a boas práticas de design. Tenho experiência prática com sistemas industriais, digitalização de processos, integrações com MES (como o Radiante) e aplicação de conceitos como DDD, Value Objects e Object Calisthenics em projetos reais.
+Sou engenheiro de software com foco em aplicações robustas, escaláveis e orientadas a boas práticas de design. Tenho experiência prática com sistemas industriais, digitalização de processos, integrações com sistemas supervisórios e aplicação de conceitos como DDD, Value Objects e Object Calisthenics em projetos reais.
 
 ## 👀 I’m interested in...
 - Arquiteturas orientadas a domínio (DDD, CQRS, Event Sourcing)
