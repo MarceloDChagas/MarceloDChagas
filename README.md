@@ -27,6 +27,7 @@ _Desenvolvedor Full Stack (Projeto QuaLeiDer) | Mai 2025 - Atual_
 * Implementei pipelines de CI/CD e testes automatizados para assegurar a estabilidade das entregas contínuas.
 * **Tech Stack:** Backend em **NestJS** (Node.js), Frontend em **React** com **Tailwind CSS** e banco de dados **MongoDB** para persistência flexível de dados.
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+
 **Closer | Belo Jardim, PE**
 _Engenheiro de Software (Freelance) | Abr 2025 - Jun 2025_
 * Liderei o ciclo completo de desenvolvimento de um sistema ERP customizado, desde a concepção da arquitetura até o deploy final.
