@@ -1,81 +1,83 @@
-# 👋 Olá, eu sou o Marcelo Chagas
-
-Sou **Engenheiro de Software** com experiência prática em **automação de processos** e desenvolvimento de **aplicações robustas e escaláveis**, com foco em boas práticas de arquitetura como **DDD**, **Object Calisthenics** e princípios **SOLID**.
-
-Tenho atuado diretamente na **digitalização de processos fabris**, integração com sistemas supervisórios e modernização de sistemas legados, sempre buscando aplicar estratégias eficazes de modelagem tática e estratégica.
+# MARCELO RODRIGUES
+**Engenheiro de Software | Desenvolvedor Full Stack**
 
 ---
 
-## 🎯 Principais interesses
-
-- 🧠 Arquitetura orientada a domínio (DDD, CQRS, Event Sourcing)
-- ⚙️ Backend com Java e Node.js (NestJS)
-- 📦 MongoDB e bancos NoSQL aplicados a contextos reais
-- 🏭 Engenharia de software aplicada à automação industrial
-- 🔌 Design e versionamento de APIs + Integração com sistemas legados
-- ⚡ Aplicações reativas e baseadas em eventos (event-driven)
+### Contato
+- **Telefone:** (81) 98342-6845
+- **E-mail:** marcelo.lucas02@gmail.com
+- **LinkedIn:** [Marcelo Rodrigues ](https://www.linkedin.com/in/marcelo-rodrigues-5988a1227/)
+- **Portfólio:** github.com/MarceloDChagas
+- **Endereço:** Belo Jardim, Pernambuco
 
 ---
 
-## 🚀 Atualmente estudando
-
-- Padrões avançados de modelagem tática/estratégica em DDD
-- Integrações eficientes entre sistemas industriais e aplicações web
-- Estratégias para testes automatizados confiáveis (TDD + Testes de contrato)
-- Monitoramento e rastreabilidade em pipelines industriais
+### Resumo Profissional
+Engenheiro de Software com sólida experiência em todo o ciclo de desenvolvimento (Full Stack), especializado em arquiteturas escaláveis e sistemas de alta performance. Possuo expertise na modernização de processos manuais através de soluções digitais robustas, utilizando NestJS, React e tecnologias de nuvem. Destaque para a capacidade de resolver problemas complexos, evidenciada pela otimização de algoritmos de visão computacional e pela implementação de arquiteturas limpas (Clean Architecture) e orientadas a domínio (DDD). Atuo com foco na qualidade de código, testes automatizados e entrega contínua.
 
 ---
 
-## 🤝 Buscando colaborar em...
+### Experiência Profissional
 
-- Projetos open source com foco em **engenharia de software de alta qualidade**
-- Sistemas de **gerenciamento de dados industriais em tempo real**
-- Ferramentas de **visualização e controle para linhas de produção**
+**IFPE - Fábrica de Software | Belo Jardim, PE**
+_Desenvolvedor Full Stack (Projeto QuaLeiDer) | Mai 2025 - Atual_
+* Atuo no desenvolvimento da plataforma QuaLeiDer, uma solução SaaS para gestão de associações e produtores de leite.
+* Arquitetei o backend utilizando **NestJS** e **TypeScript**, implementando princípios de Clean Architecture para garantir a manutenibilidade e escalabilidade do sistema.
+* Desenvolvi interfaces de usuário complexas com **React** e **Next.js**, facilitando a visualização de dados de coletas diárias e a integração entre produtores e associações.
+* Implementei pipelines de CI/CD e testes automatizados para assegurar a estabilidade das entregas contínuas.
+* **Tech Stack:** Backend em **NestJS** (Node.js), Frontend em **React** com **Tailwind CSS** e banco de dados **MongoDB** para persistência flexível de dados.
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+**Closer | Belo Jardim, PE**
+_Engenheiro de Software (Freelance) | Abr 2025 - Jun 2025_
+* Liderei o ciclo completo de desenvolvimento de um sistema ERP customizado, desde a concepção da arquitetura até o deploy final.
+* Reduzi em 40% o tempo operacional do cliente ao automatizar o agendamento de sessões e o controle financeiro, eliminando processos manuais baseados em papel.
+* **Tech Stack:** Backend em **NestJS** (Node.js), Frontend em **React** com **Tailwind CSS** e banco de dados **PostgreSQL** para persistência dos dados.
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+**Moura Tech (Baterias Moura) | Belo Jardim, PE**
+_Engenheiro de Software Trainee | Jan 2024 - Ago 2025_
+* Desenvolvi algoritmos de alta performance para sistemas de visão computacional, alcançando uma redução de latência crítica de 40 segundos para 4 segundos no processo de inspeção de qualidade.
+* Projetei e implementei um dashboard de monitoramento em tempo real (Real-Time Monitoring), permitindo a visualização de telemetria e diagnósticos proativos de equipamentos.
+* Criei aplicações web internas utilizando React e Node.js para digitalização de rotinas de manutenção, integrando sistemas legados através de APIs RESTful.
 
-## 💼 Tecnologias e ferramentas
+###  Formação Acadêmica
 
-<p align="left">
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="NestJS" src="https://img.shields.io/badge/nestjs-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img alt="Neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+**Engenharia de Software (Bacharelado)** | _2023 - 2027 (Previsão)_
+Instituto Federal de Pernambuco (IFPE) - Campus Belo Jardim
+* *Bolsista de Produtividade CNPq e FACEPE.*
 
----
+### 🛠 Competências Técnicas
 
-## 📫 Como me encontrar
+* **Linguagens:** TypeScript, JavaScript, Python, Java.
+* **Frontend:** React, Next.js, Tailwind CSS.
+  <br>
+  <div align="left">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  </div>
 
-- ✉️ Email: marcelo.lucas02@gmail.com  
-- 🔗 GitHub: [github.com/MarceloDChagas](https://github.com/MarceloDChagas)
+* **Backend:** Node.js, NestJS, Express, API RESTful.
+  <br>
+  <div align="left">
+    <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  </div>
 
----
+* **Dados & DevOps:** PostgreSQL, MongoDB, Docker, Git.
+  <br>
+  <div align="left">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
+  </div>
 
-## ⚡ Curiosidade
-
-- 🧩 Atualmente estou desenvolvendo um sistema para gerenciar minha coleção de **cartas Pokémon**, aplicando conceitos como **value objects**, **bounded contexts**, **DDD** e **arquitetura limpa**.
-- 🐧 Minha jornada com o Linux começou com o **EndeavourOS**, onde mergulhei em um ambiente **terminal-first** com o **Hyprland** e ferramentas como **Neovim**, **Tmux** e **Zellij**. Hoje, mantenho um ambiente de desenvolvimento 100% customizado e altamente produtivo.
-- 🧪 Tenho fascínio por aplicar **boas práticas de engenharia de software** até nos projetos mais simples — do sistema industrial ao "joguinho" pessoal.
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&lines=Engenharia+de+Software;Automação+e+Arquitetura+Modular;Boas+Práticas+em+DDD+e+TDD;Nice+to+meet+you!" />
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://i.gifer.com/origin/f3/f3db6f74a9adbd101f2304b7654f16c9_w200.gif" height="120px" style="margin-right: 20px;" />
-  <img src="https://media4.giphy.com/media/l378kgPmLyABZXrlC/giphy.gif" height="120px" />
-  <br /><br />
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloDChagas&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-</div>
-
+* **Arquitetura e Design:** Clean Architecture, DDD (Domain-Driven Design), Microsserviços, SOLID, Design Patterns.
+* **Soft Skills:** Resolução de Problemas Complexos, Comunicação Técnica, Trabalho em Equipes Ágeis (Scrum/Kanban).
